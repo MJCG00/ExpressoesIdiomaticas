@@ -1,0 +1,342 @@
+%title Glossário de Expressões Idiomáticas 
+%author LC LS MJ
+%rellang PT
+%inv HPN HPR
+%INV HPR HPN
+
+PT: estar no mundo da lua
+FR: être dans la lune
+EN: to have your head in the clouds
+ES: estar en las nubes
+DEF: Estar distraído ou absorto em pensamentos.
+
+PT: dar a língua ao gato
+FR: donner sa langue au chat
+EN: to give up guessing
+ES: quedarse sin palabras
+DEF: Desistir de adivinhar ou tentar descobrir algo.
+
+PT: custar os olhos da cara
+FR: coûter les yeux de la tête
+EN: to cost an arm and a leg
+ES: costar un ojo de la cara
+DEF: Ser extremamente caro, refletindo o mesmo grau de intensidade em todos os idiomas.
+
+PT: estar com a corda toda
+FR: avoir la pêche
+EN: to be full of beans
+ES: estar a tope
+DEF: Sentir-se cheio de energia e entusiasmo.
+
+PT: meter os pés pelas mãos
+FR: mettre les pieds dans le plat
+EN: to put your foot in it
+ES: meter la pata
+DEF: Falar ou agir de maneira inconveniente ou embaraçosa. Exemplo: "Ao falar daquele assunto, meteu os pés pelas mãos e deixou todos desconfortáveis."
+
+PT: está a chover a potes
+FR: il pleut des cordes
+EN: it’s raining cats and dogs
+ES: está lloviendo a cántaros
+DEF: Chover torrencialmente, uma condição climática severa, enfatizada em expressões idiomáticas distintas para cada idioma. Por exemplo, 'it’s raining cats and dogs' é comum em inglês, mas não tem relação com potes como no português.
+
+PT: partir os cabelos em quatro
+FR: couper les cheveux en quatre
+EN: to split hairs
+ES: buscarle tres pies al gato
+DEF: Ser muito detalhista ou exigente.
+
+PT: ter um golpe de raio
+FR: avoir un coup de foudre
+EN: to fall in love at first sight
+ES: tener un flechazo
+DEF: Apaixonar-se instantaneamente por algo ou alguém.
+
+PT: fazer uma tempestade num copo d'água
+FR: en faire tout un fromage
+EN: to make a mountain out of a molehill
+ES: hacer una tormenta en un vaso de agua
+DEF: Exagerar a importância de um problema pequeno.
+
+PT: estar de pé atras
+FR: être sur ses gardes
+EN: to be cautious
+ES: estar con pie de plomo
+DEF: Estar desconfiado ou cauteloso.
+
+PT: andar nas nuvens
+FR: rêver à haute voix
+EN: to daydream
+ES: estar en las nubes
+DEF: Estar sonhador ou distraído.
+
+PT: tirar o cavalinho da chuva
+FR: retirer son cheval de la pluie
+EN: to forget about it
+ES: quitarse la idea de la cabeza
+DEF: Desistir de algo ou perder esperança.
+
+PT: lavar as mãos
+FR: s'en laver les mains
+EN: to wash one’s hands of something
+ES: lavarse las manos
+DEF: Desresponsabilizar-se de algo.
+
+PT: dar com a língua nos dentes
+FR: vendre la mèche
+EN: to spill the beans
+ES: cantar todo
+DEF: Revelar um segredo.
+
+PT: fazer das tripas coração
+FR: se faire violence
+EN: to bite the bullet
+ES: hacer de tripas corazón
+DEF: Fazer um grande esforço para algo difícil.
+
+PT: ter as costas largas
+FR: être le bouc émissaire
+EN: to take the blame for everything
+ES: cargar con todas las culpas
+DEF: Ser responsabilizado por tudo.
+
+PT: dar pano para mangas
+FR: donner du fil à retordre
+EN: to give a lot to talk about
+ES: dar mucho que hablar
+DEF: Gerar muita conversa ou trabalho.
+
+PT: morrer na praia
+FR: échouer au dernier moment
+EN: to fail at the last hurdle
+ES: morir en la orilla
+DEF: Falhar no momento final.
+
+PT: bater na mesma tecla
+FR: rabâcher
+EN: to harp on the same string
+ES: insistir en lo mismo
+DEF: Insistir repetidamente no mesmo assunto.
+
+PT: não ter pés nem cabeça
+FR: n'avoir ni queue ni tête
+EN: to make no sense
+ES: no tener ni pies ni cabeza
+DEF: Algo sem sentido ou lógica.
+
+PT: quem tem boca vai a Roma
+FR: qui cherche trouve
+EN: to ask is to get
+ES: quien tiene boca llega a Roma
+DEF: Com esforço e perguntas certas, é possível conseguir qualquer coisa.
+
+PT: dar um tiro no pé
+FR: se tirer une balle dans le pied
+EN: to shoot oneself in the foot
+ES: dispararse en el pie
+DEF: Prejudicar-se com próprias ações.
+
+PT: fazer vista grossa
+FR: fermer les yeux
+EN: to turn a blind eye
+ES: hacer la vista gorda
+DEF: Fingir que não percebeu algo.
+
+PT: estar com a faca e o queijo na mão
+FR: avoir toutes les cartes en main
+EN: to have all the cards in your hand
+ES: tener todo a favor
+DEF: Estar em uma posição de vantagem.
+
+PT: deitar lenha na fogueira
+FR: jeter de l'huile sur le feu
+EN: to add fuel to the fire
+ES: echar leña al fuego
+DEF: Provocar ou intensificar um conflito.
+
+PT: dar-se ao luxo
+FR: se permettre un luxe
+EN: to indulge oneself
+ES: darse un lujo
+DEF: Permitir-se algo raro ou especial.
+
+PT: estar de molho
+FR: être en congé de maladie
+EN: to be out sick
+ES: estar de baja
+DEF: Estar em repouso por motivo de saúde.
+
+PT: chorar sobre o leite derramado
+FR: pleurer sur le lait renversé
+EN: to cry over spilled milk
+ES: llorar sobre la leche derramada
+DEF: Lamentar-se por algo que não pode ser mudado.
+
+PT: abrir o jogo
+FR: jouer cartes sur table
+EN: to lay one’s cards on the table
+ES: poner las cartas sobre la mesa
+DEF: Ser honesto e direto sobre algo.
+
+PT: apanhar o comboio em andamento
+FR: prendre le train en marche
+EN: to jump on the bandwagon
+ES: subirse al carro
+DEF: Entrar em algo já iniciado.
+
+PT: jogar a toalha
+FR: jeter l'éponge
+EN: to throw in the towel
+ES: tirar la toalla
+DEF: Desistir de lutar ou tentar.
+
+PT: contar com o ovo no cu da galinha
+FR: vendre la peau de l'ours avant de l'avoir tué
+EN: to count your chickens before they hatch
+ES: vender la piel del oso antes de cazarlo
+DEF: Assumir algo como certo antes de ter garantia.
+
+PT: fingir que é inocente
+FR: faire semblant de rien
+EN: to play it cool
+ES: hacerse el sueco
+DEF: Fingir que não percebeu algo.
+
+PT: estar na crista da onda
+FR: être au sommet de la vague
+EN: to be on top of the world
+ES: estar en la cresta de la ola
+DEF: Estar em alta ou muito bem sucedido.
+
+PT: água mole em pedra dura tanto bate até que fura
+FR: petit à petit, l'oiseau fait son nid
+EN: slow and steady wins the race
+ES: agua blanda cava la piedra
+DEF: A persistência sempre traz resultados.
+
+PT: ficar a ver navios
+FR: rester les bras ballants
+EN: to be left high and dry
+ES: quedarse con las ganas
+DEF: Ficar sem algo esperado ou desejado.
+
+PT: matar dois coelhos com uma cajadada só
+FR: faire d'une pierre deux coups
+EN: to kill two birds with one stone
+ES: matar dos pájaros de un tiro
+DEF: Resolver dois problemas com uma única ação.
+
+PT: mais vale tarde do que nunca
+FR: mieux vaut tard que jamais
+EN: better late than never
+ES: más vale tarde que nunca
+DEF: É melhor algo acontecer tarde do que nunca.
+
+PT: pagar o pato
+FR: payer les pots cassés
+EN: to pay the price
+ES: pagar el pato
+DEF: Assumir a responsabilidade por algo.
+
+PT: puxar a brasa à sua sardinha
+FR: tirer la couverture à soi
+EN: to look out for number one
+ES: arrimar el ascua a su sardina
+DEF: Agir de forma egoísta ou em próprio benefício.
+
+PT: estar a sonhar acordado
+FR: être dans les nuages
+EN: to live in a dream world
+ES: estar en las nubes
+DEF: Estar alheio à realidade.
+
+PT: fingir que não percebeu
+FR: faire l'innocent
+EN: to play dumb
+ES: hacerse el tonto
+DEF: Fingir ignorância ou desconhecimento.
+
+PT: começar com o pé esquerdo
+FR: entrer du mauvais pied
+EN: to get off on the wrong foot
+ES: empezar con mal pie
+DEF: Começar algo de forma errada ou com azar.
+
+PT: tirar o chapéu
+FR: tirer son chapeau
+EN: to take one’s hat off
+ES: quitarse el sombrero
+DEF: Demonstrar admiração ou respeito por alguém.
+
+PT: a cavalo dado não se olha o dente
+FR: à cheval donné on ne regarde pas les dents
+EN: don’t look a gift horse in the mouth
+ES: a caballo regalado no se le mira el diente
+DEF: Não criticar o que foi dado como presente.
+
+PT: quem não arrisca não petisca
+FR: qui ne tente rien n’a rien
+EN: nothing ventured, nothing gained
+ES: quien no arriesga no gana
+DEF: Sem arriscar, não se consegue nada.
+
+PT: grão a grão, enche a galinha o papo
+FR: petit à petit, l'oiseau fait son nid
+EN: little by little, the bird builds its nest
+ES: grano a grano, se llena el buche
+DEF: Pequenos esforços trazem grandes resultados.
+
+PT: estar com os azeites
+FR: être de mauvaise humeur
+EN: to be in a bad mood
+ES: estar de mal humor
+DEF: Estar irritado ou de mau humor.
+
+PT: cada macaco no seu galho
+FR: à chacun son metier
+EN: to each their own
+ES: cada uno en su lugar
+DEF: Cada pessoa deve ocupar o seu devido lugar.
+
+PT: é de pequenino que se torce o pepino
+FR: c’est jeune qu’on apprend
+EN: the child is the father of the man
+ES: es de pequeño que se endereza el árbol
+DEF: As boas qualidades ou hábitos são formados cedo.
+
+PT: quem espera desespera
+FR: attendre rend fou
+EN: waiting makes one desperate
+ES: quien espera desespera
+DEF: Esperar demasiado pode levar ao desespero.
+
+PT: não faças aos outros o que não queres que te façam a ti
+FR: ne fais pas à autrui ce que tu ne veux pas qu’on te fasse
+EN: don’t do unto others what you don’t want done to you
+ES: no hagas a otros lo que no quieres que te hagan a ti
+DEF: Tratar os outros como se gostaria de ser tratado.
+
+PT: quem tem pressa come cru
+FR: qui veut aller trop vite mange cru
+EN: haste makes waste
+ES: quien se apresura come crudo
+DEF: A pressa é inimiga da perfeição.
+
+PT: estar entre a espada e a parede
+FR: être entre le marteau et l’enclume
+EN: to be between a rock and a hard place
+ES: estar entre la espada y la pared
+DEF: Estar numa situação sem saída ou com escolhas difíceis.
+
+PT: deitar os foguetes e apanhar as canas
+FR: vendre la peau de l’ours avant de l’avoir tué
+EN: to celebrate too soon
+ES: lanzar cohetes antes de tiempo
+DEF: Celebrar antes de garantir o resultado.
+
+PT: à noite todos os gatos são pardos
+FR: la nuit tous les chats sont gris
+EN: at night all cats are gray
+ES: de noche todos los gatos son pardos
+DEF: As diferenças tornam-se menos evidentes no escuro.
+
